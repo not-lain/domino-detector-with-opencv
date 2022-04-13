@@ -1,0 +1,2 @@
+cv2.getStructuringElement
+cv2.findContours
